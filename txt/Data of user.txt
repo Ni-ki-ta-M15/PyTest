@@ -1,0 +1,59 @@
+
+Name: Nikita
+Second name: Maliy
+Addres: Chreshatick
+City: Kyiv
+Country: Ua
+Postal code: 03126
+Name: ccs
+Second name: scs
+Addres: scs
+City: scs
+Country: scsc
+Postal code: scsc
+-----------------Name: efef
+Second name: ef
+Addres: gtrgt
+City: hy
+Country: thyj
+Postal code: uyj
+-----------------Name: h6ju8o9
+Second name: ;0o;
+Addres: -p'=[
+City: ='
+Country: ;['/[
+Postal code: p/-p/
+-----------------Name: 233
+Second name: 232
+Addres: 4354
+City: 6576
+Country: 879890
+Postal code: 8099
+-----------------
+Name: Andry
+Second name: Sidorov
+Addres: Zelena 13
+City: Podolsl
+Country: RU
+Postal code: 03468
+-----------------
+Name: 23
+Second name: 23
+Addres: 23
+City: 23
+Country: 23
+Postal code: 23
+-----------------
+Name: dc
+Second name: dc
+Addres: ee
+City: ef
+Country: 
+Postal code: 
+-----------------
+Name: dc
+Second name: dc
+Addres: ee
+City: ef
+Country: eec4ef
+Postal code: 44554
