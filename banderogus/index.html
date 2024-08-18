@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Бандерогусь</title>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preload" href=".gus-anim.gif" as="image">
+
+</head>
+
+<body>
+<section class="main_page">
+    <img id="logo" src="logo.svg" alt="Banderogus"/>
+    <div class="wrapper">
+        <div class="main_page_text">
+            <p class="hello_text">Доброго вечора</p>
+            <h1 class="title">Бандерогусть</h1>
+
+            <p>Спеціальний бойовий гусак із біолабораторій України. Пишаюся своїми подвигами, бороню Батьківщину та
+                підтримую позитивний дух народу. Слава Україні!</p>
+            <button id="button1" class="go-to-form-btn">Запустити Гуся</button>
+        </div>
+        <img src="gus.svg" alt="Banderogus"/>
+    </div>
+</section>
+
+<section class="fact">
+    <img id="trezub_fact" src="trezub.svg" alt="Banderogus"/>
+    <h2 class="h2_fact">Цікаві факти про бандерогусей</h2>
+    <p class="p_fact">Зазвичай бандерогуси — виключно мирні птахи. Але у разі небезпеки можуть атакувати ворога системою
+        надпотужного озброєння. Також нищать психологічно, активуючи високочастотне шипіння та розмахування крилами</p>
+
+
+    <div class="wrapper">
+        <div class="facts_item">
+            <img src="gus1.svg" alt="Banderogus1"/>
+            <h3 class="h123">Система навігації</h3>
+            <p class="p123">Супутниковий GPS та ехолокатори розпізнають ворожу техніку навіть на етапі збірки</p>
+        </div>
+        <div class="facts_item">
+            <img src="gus2.svg" alt="Banderogus2"/>
+            <h3 class="h123">Система навігації</h3>
+            <p class="p123">Допомагають виявити характер сигнатури об’єктів та значно підвищують точність удару</p>
+        </div>
+        <div class="facts_item">
+            <img src="gus1.svg" alt="Banderogus"/>
+            <h3 class="h123">Система навігації</h3>
+            <p class="p123">Можуть нести 2-4 керовані ракети, що вражають ціль на відстані «ніхріна собі» кілометрів</p>
+        </div>
+    </div>
+</section>
+
+<section class="form_contriner">
+    <form action="#" class="form" id="form">
+        <img id="trezub_form" src="trezub.svg" alt="Banderogus"/>
+        <h4 class="h_form">Поділись, будь ласка, поштою</h4>
+        <p class="p_form">та запиши гуся до бандерозагону</p>
+        <div class="form_f f1">
+            <label for="name" class="label_form">Ім’я</label>
+            <input type="text" id="name" class="input_form">
+
+        </div>
+        <div class="form_f f2">
+            <label for="email" class="label_form">E-mail</label>
+            <input type="email" id="email" class="input_form" pattern=".+@gmail\.com" required>
+
+
+        </div>
+
+        <button type="submit" class="button_form" id="launch-btn">Запустити гуся</button>
+    </form>
+</section>
+
+<script src="form.js"></script>
+</body>
+</html>
